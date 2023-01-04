@@ -1,0 +1,12 @@
+# Site settings
+title:       'Rosenholms'
+email:
+description: 'Public Site'
+url:         'https://rosenholms.github.io'
+baseurl:
+twitter_username:
+github_username:  jquorning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
