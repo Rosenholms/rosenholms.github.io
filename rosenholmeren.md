@@ -16,5 +16,5 @@ Udgivelser
 [118](http://www.rosenholmeren.dk/118/)  
 [117](http://www.rosenholmeren.dk/117/)  
 
-[GitHub](https://github.com/Rosenholms/rosenholms.github.io/rosenholmeren.md)
+[GitHub](https://github.com/sosenholms.github.io/rosenholmeren.md)
 
