@@ -9,7 +9,7 @@ Radio ALFA
 [Net](https://alfa.side-walk.dk/webplayer/radio-alfa/7)  
 [Aarhus](https://alfa.side-walk.dk/webplayer/radio-alfa/2)  
 [GOLD](https://alfa.side-walk.dk/webplayer/radio-alfa/8)  
-[Always Elvis](https://alfa.side-walk.dk/webplayer/radio-alfa/9)  
+[Always Elvis](https://alfa.side-walk.dk/webplayer/radio-alfa/11)  
 
 Syddjurs Lokalradio
 --
