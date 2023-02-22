@@ -8,5 +8,4 @@ title: Rosenholms @ GitHub
 [Hornslet](hornslet)  
 [Filmklub](filmklub)  
 
-
 [GitHub](https://github.com/Rosenholms/rosenholms.github.io)  
