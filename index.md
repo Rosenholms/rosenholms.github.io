@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Rosenholms Index
+title: Rosenholms @ GitHub
 ---
 
-- [Rosenholmeren](rosenholmeren)
-- [Filmklub](filmklub)
-- [Hornslet](hornslet)
-- [RosenholmsNet](http://www.rosenholmsnet.dk/)
+[Rosenholmeren](rosenholmeren)
+[RosenholmsNet](http://www.rosenholmsnet.dk/)
+[Hornslet](hornslet)
+[Filmklub](filmklub)  
+
+
+[GitHub](https://github.com/Rosenholms/rosenholms.github.io)  
