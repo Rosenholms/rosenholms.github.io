@@ -4,6 +4,6 @@ title: Rosenholms Index
 ---
 
 - [Rosenholmeren](rosenholmeren)
-- [Filmklub](https://github.com/Rosenholms/Filmklub)
+- [Filmklub](filmklub)
 - [Hornslet](hornslet)
 - [RosenholmsNet](http://www.rosenholmsnet.dk/)
