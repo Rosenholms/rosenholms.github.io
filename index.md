@@ -5,6 +5,7 @@ title: Rosenholms @ GitHub
 
 [Rosenholmeren](rosenholmeren)  
 [RosenholmsNet](http://www.rosenholmsnet.dk/)  
+[Båndværksted](baandvaerksted)  
 [Hornslet](hornslet)  
 [Filmklub](filmklub)  
 
